@@ -1,2 +1,2 @@
 ## Three.js
- - [Basic Scene](./1BasicScene/): Basic Scene elements
+ - [Basic Scene](./1basicScene/): Basic Scene elements
